@@ -1,0 +1,51 @@
+<<<<<<< HEAD
+*{
+	margin: 0;
+	padding: 0;
+}
+table{
+width: 600px;
+height: 600px;
+text-align: center;
+}
+td{
+width: 200px;
+height: 200px;
+}
+td:nth-child(2n+1) {
+background: #850000;
+}
+.reversed-order td:nth-child(2n) {
+background: #850000;
+}
+.reversed-order td:nth-child(2n+1) {
+background: white;
+}
+
+ 
+=======
+*{
+	margin: 0;
+	padding: 0;
+}
+table{
+width: 600px;
+height: 600px;
+text-align: center;
+}
+td{
+width: 200px;
+height: 200px;
+}
+td:nth-child(2n+1) {
+background: #850000;
+}
+.reversed-order td:nth-child(2n) {
+background: #850000;
+}
+.reversed-order td:nth-child(2n+1) {
+background: white;
+}
+
+ 
+>>>>>>> e1f333d0d328328912bde9e10b214f1d175591e6

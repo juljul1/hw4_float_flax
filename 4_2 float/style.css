@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.wrapper{
+	width: 600px;
+	height: 600px;
+}
+img{
+	float: inherit;
+	text-align: center;
+	vertical-align: center;
+}
+div{
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	text-align: center;
+	vertical-align: center;
+}
+.left{
+	background-color: #850000;
+	float: left;
+}
+.right{
+	background-color: #850000;
+	float: right;
+}
+.leftimg{
+	float: left;
+}
+.red{
+	background-color: #850000;
+	float: none;
+}
+.white{
+	float: right;
+	background-color: #fff;
+}
+ 
